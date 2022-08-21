@@ -1,0 +1,16 @@
+{
+  "name": "reps-and-sets",
+  "version": "1.0.0",
+  "description": "Project for Hack the 6ix",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon backend/server.js"
+  },
+  "author": "ryan mark",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
